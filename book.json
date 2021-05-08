@@ -3,7 +3,7 @@
   "author": "guoyanhong",
   "links": {
     "sidebar": {
-      "Home": "https://coco723.github.io/book"
+      "Home": "https://coco723.github.io/gitbook-template"
     }
   },
   "plugins": [
@@ -37,7 +37,7 @@
       "shortName": "book"
     },
     "editlink": {
-      "base": "https://github.com/coco723/book/blob/master",
+      "base": "https://github.com/coco723/gitbook-tempalte/blob/master",
       "label": "Edit",
       "multilingual": false
     },
